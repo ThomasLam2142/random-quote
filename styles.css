@@ -1,0 +1,33 @@
+.center-container {
+    display: flex;
+    justify-content: center;
+  }
+
+/* Select the button by its class or ID, or adjust the selector accordingly */
+.generateButton {
+    width: 200px; /* Set the desired width */
+    height: 50px; /* Set the desired height */
+    font-size: 18px; /* Set the desired font size */
+    /* You can also adjust other properties like padding or margin to fine-tune the button's appearance */
+
+    margin: 2em;
+}
+
+.content-container{
+    border: 6px solid black; /* 2px width, solid line style, black color */
+    padding:5em;
+}
+
+.quote-container{
+    font-family: Lobster;
+    font-size: large;
+    text-shadow: 10px;
+}
+
+
+
+.author-container{
+    text-indent: 20px; /* Adjust the value as needed */
+    font-family: cursive;
+    font-size: xx-large;
+}
